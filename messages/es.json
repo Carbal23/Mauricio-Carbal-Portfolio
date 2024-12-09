@@ -1,0 +1,136 @@
+{
+    "Hero": {
+        "title": "Portafolio de Mauricio Carbal",
+        "phrase": "Dando vida a ideas innovadoras, transformando código en experiencias impactantes.",
+        "description": "Hola, soy Mauricio Carbal, desarrollador Full-stack radicado en Colombia.",
+        "buttonText": "Ver mi trabajo"
+    },
+    "NavItems": {
+        "about": {
+            "name": "Acerca de mí"
+        },
+        "projects": {
+            "name": "Proyectos"
+        },
+        "testimonials": {
+            "name": "Testimonios"
+        },
+        "contact": {
+            "name": "Contacto"
+        }
+    },
+    "AboutItems": {
+        "1": {
+            "title": "Priorizo la colaboración con el cliente, fomentando la comunicación abierta.",
+            "description": ""
+        },
+        "2": {
+            "title": "Me adapto a diferentes zonas horarias, favoreciendo la comunicación con el cliente.",
+            "description": ""
+        },
+        "3": {
+            "title": "Mi stack tecnológico.",
+            "description": "Mejorando constantemente mis habilidades."
+        },
+        "4": {
+            "title": "Entusiasta de la tecnología, apasionado por la innovación.",
+            "description": ""
+        },
+        "5": {
+            "title": "Destacando por interfaces modernas, limpieza en el código y alto rendimiento.",
+            "description": "Ofreciendo soluciones tecnológicas innovadoras."
+        },
+        "6": {
+            "title": "¿Quieres empezar un proyecto juntos?",
+            "description": ""
+        },
+        "copyEmail": "Copiar Email",
+        "emailCopied": "Email copiado"
+    },
+    "ProjectsSection": {
+        "title-1": "Una pequeña colección de",
+        "title-2": "proyectos recientes.",
+        "checkSite": "Visitar sitio web",
+        "title-3": "Otras",
+        "title-4": "tecnologías",
+        "title-5": "con las que trabajó."
+    },
+    "ProjectsItems": {
+        "1": {
+            "title": "Portal de empleo universitario",
+            "des": "Portal de empleo diseñado exclusivamente para estudiantes universitarios, creado con React, Node.js y Supabase. Azure autenticación con dominio Microsoft para exclusividad."
+        },
+        "2": {
+            "title": "Tablero analítico del sector energético en Colombia",
+            "des": "Tablero del sector energético de Colombia para visualizar datos de generación, demanda y precios. Construido con Power BI, obtiene datos de la API de XM y los almacena en una base de datos personalizada a través de una API dedicada, lo que garantiza información actualizada."
+        },
+        "3": {
+            "title": "Página web de hotel",
+            "des": "página de hotel construida con Gatsby, logrando excelentes puntuaciones de SEO y rendimiento. Integra un Headless CMS para permitir a los propietarios administrar y actualizar el contenido fácilmente, utilizando GraphQL para una obtencion de datos optimizada."
+        },
+        "4": {
+            "title": "Página de películas",
+            "des": "Front de una página de películas, diseñado con Vite y React. React Router para manejo de rutas."
+        }
+    },
+    "ClientsSection": {
+        "title-1": "Palabras amables de",
+        "title-2": "clientes y socios satisfechos."
+    },
+    "TestimonialsItems": {
+        "1": {
+            "quote": "Tuve la suerte de trabajar con Mauricio en el área de desarrollo, y honestamente, fue un gusto compartir proyectos con alguien tan talentoso. Tiene un excelente dominio técnico, pero lo que realmente lo diferencia es su capacidad para encontrar soluciones creativas y prácticas, incluso en los retos más complejos. Además, su disposición para colaborar, escuchar y aportar siempre con la mejor actitud hizo que el trabajo en equipo fuera mucho más fluido y efectivo. Recomendarlo sería quedarse corto, es un profesional de primera y un gran compañero.",
+            "title": "Analista funcional en INDRA."
+        },
+        "2": {
+            "quote": "Trabajar con Mauricio en el área de desarrollo web ha sido una experiencia realmente enriquecedora. No solo cuenta con un excelente manejo técnico y una gran capacidad para adaptarse a diferentes tecnologías, sino que también destaca por su habilidad para abordar problemas con creatividad y eficiencia. En las ocasiones que hemos colaborado, ya sea en proyectos conjuntos o cuando le he solicitado su apoyo para desarrollos específicos, siempre ha demostrado un compromiso impecable y una calidad en el trabajo que supera las expectativas. Su disposición para colaborar, explicar ideas y aportar valor es notable, lo que hace que sea un verdadero placer trabajar a su lado. Sin duda, Mauricio es un profesional confiable y talentoso que deja huella en cada proyecto que realiza.",
+            "title": "Analista y desarrollador de software en JAMAR."
+        },
+        "3": {
+            "quote": "Excelente persona y desarrollador, trabaja en equipo, aprende muy rápido y genera excelentes ideas. He tenido la oportunidad de verlo enfrentar retos de diversa complejidad y, en cada caso, destaca por su habilidad para analizar las situaciones desde diferentes perspectivas y encontrar soluciones innovadoras y prácticas. Su capacidad para aprender rápidamente y adaptarse a nuevas herramientas o tecnologías lo convierten en un recurso invaluable para cualquier equipo de desarrollo. Además, siempre aporta una actitud positiva y constructiva, lo que fomenta un ambiente colaborativo y productivo. Es un profesional que no solo cumple con los objetivos planteados, sino que también agrega un valor extra con su creatividad y enfoque orientado a resultados. Trabajar con él es sinónimo de confianza y calidad.",
+            "title": "Desarrollador Fullstack Senior - Servicios en la nube de Azure."
+        }
+    },
+    "WorkExperienceSection": {
+        "title-1": "Mi",
+        "title-2": "experiencia de trabajo"
+    },
+    "WorkExperienceItems": {
+        "1": {
+            "title": "Desarrollador Líder Frontend.",
+            "des": "Desarrollé con mi equipo el frontend de una aplicación web enfocada a la gestión de licitaciones de proyectos de alumbrado público."
+        },
+        "2": {
+            "title": "Desarrollador Full-stack.",
+            "des": "Trabajé tanto en el frontend como en el backend de un portal de empleo universitario, implementando integraciones de autenticación cliente-servidor."
+        },
+        "3": {
+            "title": "Desarrollador Frontend.",
+            "des": "Contribuí en el desarrollo del frontend de Sistemas de Gestión de Contenidos (CMS) con React."
+        },
+        "4": {
+            "title": "Analista Funcional.",
+            "des": "Realizando funciones de consulta, gestión y mantenimiento de operaciones funcionales de software mediante bases de datos."
+        }
+    },
+    "ApproachSection": {
+        "title-1": "Mi",
+        "title-2": "enfoque",
+        "phase1": "Fase 1",
+        "phase2": "Fase 2",
+        "phase3": "Fase 3",
+        "cardTitle1": "Planificación y estrategia",
+        "cardTitle2": "Desarrollo y retroalimentación",
+        "cardTitle3": "Desarrollo y lanzamiento",
+        "description1": "Trabajaremos juntos para definir el propósito de tu sitio web, identificar a su público objetivo y determinar las características esenciales. Este proceso incluirá conversaciones sobre el diseño, la experiencia de usuario y el tipo de contenido necesario para alcanzar tus objetivos de manera efectiva.",
+        "description2": "Una vez que definimos el plan, pongo mi playlist favorita para concentrarme y me pongo manos a la obra con el desarrollo. Desde los primeros bocetos hasta la implementación final, te mantendré informado e involucrado durante todo el proceso.",
+        "description3": "¡Aquí es donde ocurre la magia! Usando el diseño aprobado como guía, lo transformaré en un sitio web completamente funcional, creando cuidadosamente cada elemento desde cero para garantizar una experiencia impecable."
+    },
+    "FooterSection": {
+        "title-1": "¿Listo para llevar",
+        "title-2": "tus",
+        "title-3": "ideas al siguiente nivel?",
+        "subtitle": "Comuníquese conmigo hoy y analicemos cómo puedo ayudarlo a lograr sus objetivos.",
+        "textButton": "Pongámonos en contacto"
+    }
+}

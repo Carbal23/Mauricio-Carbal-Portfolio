@@ -1,0 +1,138 @@
+{
+    "Hero": {
+        "title": " Mauricio Carbal's Portfolio",
+        "phrase": "Bringing innovative ideas to life, transforming code into impactful experiences.",
+        "description": "Hi there, I'm Mauricio Carbal, a Full-stack developer based in Colombia.",
+        "buttonText": "Show my work"
+    },
+    "NavItems": {
+        "about": {
+            "name": "About me"
+        },
+        "projects": {
+            "name": "Projects"
+        },
+        "testimonials": {
+            "name": "Testimonials"
+        },
+        "contact": {
+            "name": "Contact"
+        }
+    },
+    "AboutItems": {
+        "1": {
+            "title": "I prioritize client collaboration, fostering open communication.",
+            "description": ""
+        },
+        "2": {
+            "title": "I adapt to different time zones, favoring communication with the client.",
+            "description": ""
+        },
+        "3": {
+            "title": "My tech stack.",
+            "description": "I'm constantly improving my skills."
+        },
+        "4": {
+            "title": "Technology enthusiast passionate about innovation.",
+            "description": ""
+        },
+        "5": {
+            "title": "Standing out for modern interfaces, clean code and high performance.",
+            "description": "Offering innovative technological solutions."
+        },
+        "6": {
+            "title": "Do you want to start a project together?",
+            "description": ""
+        },
+        "copyEmail": "Copy my Email",
+        "emailCopied": "Email Copied"
+    },
+    "ProjectsSection": {
+        "title-1": "A small collection of",
+        "title-2": "recent projects",
+        "checkSite": "Check Live Site",
+        "title-3": "Other",
+        "title-4": "technologies",
+        "title-5": "he worked with."
+    },
+    "ProjectsItems": {
+        "1": {
+            "title": "University employment portal",
+            "des": "An employment portal designed exclusively for university students, built with React, Node.js, and Supabase. It includes Azure authentication via Microsoft domain for enhanced exclusivity."
+        },
+        "2": {
+            "title": "Analytical dashboard of the energy sector Colombia",
+            "des": "A dashboard for Colombia's energy sector to visualize data on generation, demand, and prices. Built with Power BI, it fetches data from the XM API and stores it in a custom database via a dedicated API, ensuring up-to-date information."
+        },
+        "3": {
+            "title": "Landing Page Hotel",
+            "des": "A hotel landing page built with Gatsby, achieving excellent SEO and performance scores. It integrates a headless CMS to allow owners to easily manage and update content, using GraphQL for optimized data fetching."
+        },
+        "4": {
+            "title": "Movie Page",
+            "des": "Movie page front end, designed with vite and react, react-router for route management."
+        }
+    },
+    "ClientsSection": {
+        "title-1": "Kind words from",
+        "title-2": "satisfied clients and patners."
+    },
+    "TestimonialsItems": {
+        "1": {
+            "quote": "I was lucky enough to work with Mauricio in the development area, and honestly, it was a pleasure to share projects with someone so talented. He has excellent technical mastery, but what really sets him apart is his ability to find creative and practical solutions, even to the most complex challenges. Furthermore, his willingness to collaborate, listen and always contribute with the best attitude made teamwork much more fluid and effective. Recommending him would be an understatement, he is a first-class professional and a great colleague.",
+            "title": "Functional Analyst at INDRA."
+        },
+        "2": {
+            "quote": "Working with Mauricio in the area of ​​web development has been a truly enriching experience. Not only does he have excellent technical skills and a great ability to adapt to different technologies, but he also stands out for his ability to address problems with creativity and efficiency. On the occasions that we have collaborated, whether on joint projects or when I have requested his support for specific developments, he has always demonstrated impeccable commitment and a quality of work that exceeds expectations. His willingness to collaborate, explain ideas, and add value is remarkable, making it a true pleasure to work alongside him. Without a doubt, Mauricio is a reliable and talented professional who leaves his mark on every project he carries out.",
+            "title": "Software analyst and developer at JAMAR."
+        },
+        "3": {
+            "quote": "Excellent person and developer, works as a team, learns very quickly and generates excellent ideas. I have had the opportunity to see him face challenges of varying complexity and, in each case, he stands out for his ability to analyze situations from different perspectives and find innovative and practical solutions. Your ability to quickly learn and adapt to new tools or technologies makes you an invaluable resource for any development team. Additionally, he always brings a positive and constructive attitude, which fosters a collaborative and productive environment. He is a professional who not only meets the objectives set, but also adds extra value with his creativity and results-oriented approach. Working with him is synonymous with trust and quality.",
+            "title": "Senior FullStack Developer - Cloud Services Azure."
+        }
+    },
+    "WorkExperienceSection":{
+        "title-1": "My",
+        "title-2": "work experience"
+
+    },
+    "WorkExperienceItems": {
+        "1": {
+            "title": "Lead Frontend Developer.",
+            "des": "I developed with my team the frontend of a web application focused on managing public lighting project tenders."
+        },
+        "2": {
+            "title": "Full-stack Developer.",
+            "des": "Worked on both the frontend and backend of a university employment portal, implementing client-server authentication integrations."
+        }, 
+        "3": {
+            "title": "Frontend Developer.",
+            "des": "Contributed to the development of the frontend of Content Management Systems (CMS) with React."
+        },
+        "4": {
+            "title": "Functional Analyst.",
+            "des": "Performing consultation, management and maintenance functions of functional software operations through databases."
+        }
+
+    },
+    "ApproachSection":{
+        "title-1": "My",
+        "title-2": "approach",
+        "phase1": "Phase 1",
+        "phase2": "Phase 2",
+        "phase3": "Phase 3",
+        "cardTitle1": "Planning & Strategy",
+        "cardTitle2": "Development & feedback",
+        "cardTitle3": "Development & Launch",
+        "description1": "We'll work together to outline the purpose of your website, define its target audience, and identify essential features. This process will involve discussions about the layout, user flow, and the type of content needed to achieve your objectives effectively.",
+        "description2": "Once we finalize the plan, I put on my favorite focus playlist and get to work on the development. From the first drafts to the final implementation, I’ll keep you informed and involved throughout the entire process.",
+        "description3": "This is where the magic comes to life! Using the approved design as a guide, I’ll transform it into a fully functional website, carefully crafting every element from scratch to ensure a seamless experience."
+    },
+    "FooterSection": {
+        "title-1": "Ready to take",
+        "title-2": "your",
+        "title-3": "ideas to the next level?",
+        "subtitle": "Reach out to me today, and let's discuss how I can help you achieve your goals.",
+        "textButton": "Let's get in touch"
+    }
+}
