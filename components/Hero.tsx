@@ -2,11 +2,11 @@
 
 import React from "react";
 import { useTheme } from "next-themes";
-import { TextGenerateEffect } from "./ui/TextGenerateEffect";
 import MagicButton from "./ui/MagicButton";
 import { FaLocationArrow } from "react-icons/fa";
 import { useTranslations } from "next-intl";
 import dynamic from "next/dynamic";
+import TextGenerateEffect from "./ui/TextGenerateEffect";
 
 const Spotlight = dynamic(() => import('./ui/Spotlight'), { ssr: false });
 const ModeToggle = dynamic(() => import('../components/ModeToggle'), { ssr: false });
@@ -60,14 +60,14 @@ const Hero = () => {
           </h2>
           <TextGenerateEffect
             className="text-center text-[40px] md:text-5xl lg:text-6xl"
-            words={t('phrase')} // Traducción del título
+            words={t('phrase')} 
           />
           <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
             {t('description')}
           </p>
           <a href="#about">
             <MagicButton
-              title={t('buttonText')} // Traducción del texto del botón
+              title={t('buttonText')} 
               icon={<FaLocationArrow />}
               position="right"
             />

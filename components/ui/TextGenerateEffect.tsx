@@ -3,7 +3,7 @@ import { useEffect } from "react";
 import { motion, stagger, useAnimate } from "framer-motion";
 import { cn } from "@/lib/Utils";
 
-export const TextGenerateEffect = ({
+const TextGenerateEffect = ({
   words,
   className,
   filter = true,
@@ -60,3 +60,5 @@ export const TextGenerateEffect = ({
     </div>
   );
 };
+
+export default TextGenerateEffect;
