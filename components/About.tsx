@@ -6,7 +6,6 @@ import { aboutItems } from "@/data";
 const About = () => {
   const t = useTranslations("AboutItems");
 
-
   return (
     <section id="about">
       <BentoGrid className="w-full py-20">

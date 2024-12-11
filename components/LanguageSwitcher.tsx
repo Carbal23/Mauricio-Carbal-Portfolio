@@ -43,7 +43,7 @@ const LanguageSwitcher = () => {
       {isDropdownOpen && (
         <div
           className="absolute mt-2 w-28 bg-white dark:bg-gray-800 rounded-lg shadow-lg z-50"
-          style={{ minWidth: "8rem" }} // Asegura un ancho mínimo adecuado
+          style={{ minWidth: "8rem" }} 
         >
           <button
             onClick={() => switchLanguage("es")}

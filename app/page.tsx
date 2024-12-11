@@ -1,14 +1,25 @@
-// Home.tsx
-import Hero from "@/components/Hero";
-import { FloatingNav } from "@/components/ui/FloatingNav";
 import About from "@/components/About";
 import RecentProjects from "@/components/RecentProjects";
 import Clients from "@/components/Clients";
 import Approach from "@/components/Approach";
 import Footer from "@/components/Footer";
-import Experiences from "@/components/Experiences";
-import { useTranslations } from "next-intl";
+import dynamic from "next/dynamic";
+import Loading from "@/components/Loading";
 
+const FloatingNav = dynamic(
+  () => import("@/components/ui/FloatingNav").then((m) => m.FloatingNav),
+  { ssr: false }
+);
+
+const Hero = dynamic(() => import("@/components/Hero"), {
+  ssr: false,
+  loading: () => <Loading />,
+});
+
+const Experiences = dynamic(() => import("@/components/Experiences"), {
+  ssr: false,
+  loading: () => <Loading />,
+});
 
 export default function Home() {
   return (
