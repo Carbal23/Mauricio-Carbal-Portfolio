@@ -57,20 +57,20 @@
     },
     "ProjectsItems": {
         "1": {
+            "title": "Plataforma para Compartir archivos",
+            "des": "Plataforma para compartir archivos, con registro y autenticación de usuarios. Permite compartir archivos protegidos con contraseña y establecer un número limitado de descargas. Desarrollada con React y Node.js, utilizando MongoDB para el almacenamiento de datos y la gestión de usuarios."
+        },
+        "2": {
             "title": "Portal de empleo universitario",
             "des": "Portal de empleo diseñado exclusivamente para estudiantes universitarios, creado con React, Node.js y Supabase. Azure autenticación con dominio Microsoft para exclusividad."
         },
-        "2": {
+        "3": {
             "title": "Tablero analítico del sector energético en Colombia",
             "des": "Tablero del sector energético de Colombia para visualizar datos de generación, demanda y precios. Construido con Power BI, obtiene datos de la API de XM y los almacena en una base de datos personalizada a través de una API dedicada, lo que garantiza información actualizada."
         },
-        "3": {
+        "4": {
             "title": "Página web de hotel",
             "des": "página de hotel construida con Gatsby, logrando excelentes puntuaciones de SEO y rendimiento. Integra un Headless CMS para permitir a los propietarios administrar y actualizar el contenido fácilmente, utilizando GraphQL para una obtencion de datos optimizada."
-        },
-        "4": {
-            "title": "Página de películas",
-            "des": "Front de una página de películas, diseñado con Vite y React. React Router para manejo de rutas."
         }
     },
     "ClientsSection": {

@@ -57,20 +57,20 @@
     },
     "ProjectsItems": {
         "1": {
+            "title": "File sharing platform",
+            "des": "File-sharing platform with user registration and authentication. It allows sharing files protected by a password and setting a limited number of downloads. Developed with React and Node.js, using MongoDB for data storage and user management."
+        },
+        "2": {
             "title": "University employment portal",
             "des": "An employment portal designed exclusively for university students, built with React, Node.js, and Supabase. It includes Azure authentication via Microsoft domain for enhanced exclusivity."
         },
-        "2": {
+        "3": {
             "title": "Analytical dashboard of the energy sector Colombia",
             "des": "A dashboard for Colombia's energy sector to visualize data on generation, demand, and prices. Built with Power BI, it fetches data from the XM API and stores it in a custom database via a dedicated API, ensuring up-to-date information."
         },
-        "3": {
+        "4": {
             "title": "Landing Page Hotel",
             "des": "A hotel landing page built with Gatsby, achieving excellent SEO and performance scores. It integrates a headless CMS to allow owners to easily manage and update content, using GraphQL for optimized data fetching."
-        },
-        "4": {
-            "title": "Movie Page",
-            "des": "Movie page front end, designed with vite and react, react-router for route management."
         }
     },
     "ClientsSection": {
@@ -91,10 +91,9 @@
             "title": "Senior FullStack Developer - Cloud Services Azure."
         }
     },
-    "WorkExperienceSection":{
+    "WorkExperienceSection": {
         "title-1": "My",
         "title-2": "work experience"
-
     },
     "WorkExperienceItems": {
         "1": {
@@ -104,7 +103,7 @@
         "2": {
             "title": "Full-stack Developer.",
             "des": "Worked on both the frontend and backend of a university employment portal, implementing client-server authentication integrations."
-        }, 
+        },
         "3": {
             "title": "Frontend Developer.",
             "des": "Contributed to the development of the frontend of Content Management Systems (CMS) with React."
@@ -113,9 +112,8 @@
             "title": "Functional Analyst.",
             "des": "Performing consultation, management and maintenance functions of functional software operations through databases."
         }
-
     },
-    "ApproachSection":{
+    "ApproachSection": {
         "title-1": "My",
         "title-2": "approach",
         "phase1": "Phase 1",
